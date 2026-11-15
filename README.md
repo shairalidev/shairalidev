@@ -100,23 +100,73 @@ A few of the larger platforms I've designed and built on my own for clients. The
 
 ## ⭐ What clients say
 
-**4.9★ average rating on fiverr · 12 client reviews · 3–4× repeat orders from the same clients** on [Fiverr](https://www.fiverr.com/sellers/devshair)
+<p>
+<a href="https://www.fiverr.com/sellers/devshair"><img src="https://img.shields.io/badge/Rating-4.9%E2%98%85-FFB33E?style=for-the-badge&logo=fiverr&logoColor=white" alt="Rating 4.9★"/></a>
+<a href="https://www.fiverr.com/sellers/devshair"><img src="https://img.shields.io/badge/Reviews-12-1DBF73?style=for-the-badge" alt="12 reviews"/></a>
+<a href="https://www.fiverr.com/sellers/devshair"><img src="https://img.shields.io/badge/Repeat_clients-3--4%C3%97_orders-0A66C2?style=for-the-badge" alt="Repeat clients"/></a>
+</p>
 
-> I would be surprised if you find anyone more competent, intelligent, kind, and capable of doing all that was needed for my website. You have no need to look any further. Shair is the real deal!
->
-> <sub>★★★★★ K., United States · 4 orders</sub>
+Most of my Fiverr work is long-running: clients in the USA and Austria who hired me for one job and came back for the next three or four.
 
-> He took on a project without seeing what he had to work with and successfully completed it under limited information from me because I am not a programmer. He went out of his way to communicate and explain what I did not understand and has set us up to work together in the future.
->
-> <sub>★★★★★ P., United States · 4 orders</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“I would be surprised if you find anyone more competent, intelligent, kind, and capable of doing all that was needed for my website. You have no need to look any further. Shair is the real deal!”</i></p>
+<sub><b>K.</b> 🇺🇸 United States<br/>4 orders · Nov 2026</sub>
+</td>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“What sets him apart is his ability to listen carefully, understand the needs of individuals with limited technical or programming knowledge, and translate those needs into practical, effective solutions.”</i></p>
+<sub><b>K.</b> 🇺🇸 United States<br/>4 orders · Jun 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“Exceptional work again. Building the next platform with him.”</i></p>
+<sub><b>M.</b> 🇦🇹 Austria<br/>3 orders · Feb 2026</sub>
+</td>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“Built the perfect platform for my barber booking tool.”</i></p>
+<sub><b>M.</b> 🇦🇹 Austria<br/>3 orders · Jan 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“We had old issues he diligently cleaned up while moving our software toward a launch date. He finished version 7 and we are testing. Finishing is always a problem. His credibility is great with us.”</i></p>
+<sub><b>P.</b> 🇺🇸 United States<br/>4 orders · Nov 2025</sub>
+</td>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“He took on a project without seeing what he had to work with and successfully completed it under limited information from me because I am not a programmer. He went out of his way to communicate and explain what I did not understand and has set us up to work together in the future.”</i></p>
+<sub><b>P.</b> 🇺🇸 United States<br/>4 orders · Sep 2025</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“This is the second time I've worked with Shair and it was just as great! I had a complex request and he worked it out perfectly, going above and beyond every time.”</i></p>
+<sub><b>cronkie</b><br/>Fiverr client · repeat order</sub>
+</td>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“He excelled at delivering quickly and the quality of his work is amazing. Highly recommend hiring him for any web development project.”</i></p>
+<sub><b>huynhd</b><br/>Fiverr client</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+⭐⭐⭐⭐⭐
+<p><i>“His responsiveness and attention to detail is exceptional. Kudos for the timely delivery and professional communication throughout the project!”</i></p>
+<sub><b>harshiamarasena</b><br/>Fiverr client</sub>
+</td>
+</tr>
+</table>
 
-> Built the perfect platform for my barber booking tool.
->
-> <sub>★★★★★ M., Austria · 3 orders</sub>
-
-> What sets him apart is his ability to listen carefully, understand the needs of individuals with limited technical or programming knowledge, and translate those needs into practical, effective solutions.
->
-> <sub>★★★★★ K., United States · 4 orders</sub>
+<sub>Quoted from my <a href="https://www.fiverr.com/sellers/devshair">Fiverr profile</a>; longer reviews are shortened. <a href="https://www.fiverr.com/sellers/devshair">Read all reviews →</a></sub>
 
 ## 🎓 Education
 
