@@ -18,6 +18,15 @@ I plan the architecture, design the interface, write the frontend and the API, m
 </tr>
 </table>
 
+### 🤝 Built for
+
+<p>
+<a href="https://www.rivelya.com" title="Rivelya"><img src="assets/clients/rivelya.png" alt="Rivelya logo" width="190"/></a>
+<a href="https://covermelienservices.com" title="Cover Me Lien Services"><img src="assets/clients/cover-me-lien-services.png" alt="Cover Me Lien Services logo" width="190"/></a>
+<a href="https://tenantcertification.online" title="Tenant Certification"><img src="assets/clients/tenant-certification.png" alt="Tenant Certification logo" width="190"/></a>
+<a href="https://grandhotelselinunte.com" title="Grand Hotel Selinunte"><img src="assets/clients/grand-hotel-selinunte.png" alt="Grand Hotel Selinunte logo" width="190"/></a>
+</p>
+
 ## 🚀 Featured work
 
 A few of the larger platforms I've designed and built on my own for clients. The client code is private, so each one has a showcase repo with screenshots, architecture and the full stack.
