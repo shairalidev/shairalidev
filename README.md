@@ -10,14 +10,11 @@ I plan the architecture, design the interface, write the frontend and the API, m
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>100%</h3><sub>Solo delivery, from design to DevOps</sub></td>
-<td align="center" width="33%"><h3>US · EU</h3><sub>Clients in the USA & Italy</sub></td>
-<td align="center" width="33%"><h3>3+ years</h3><sub>Freelancing on Fiverr</sub></td>
-</tr>
-<tr>
-<td align="center" width="33%"><h3>Level 1</h3><sub>Fiverr seller</sub></td>
-<td align="center" width="33%"><h3>4.9★</h3><sub>Average rating on Fiverr</sub></td>
-<td align="center" width="33%"><h3>22+</h3><sub>Orders delivered</sub></td>
+<td align="center" width="20%"><h3>100%</h3><sub>Solo delivery, from design to DevOps</sub></td>
+<td align="center" width="20%"><h3>US · EU</h3><sub>Clients in the USA & Italy</sub></td>
+<td align="center" width="20%"><h3>3+ years</h3><sub>Freelancing on Fiverr</sub></td>
+<td align="center" width="20%"><h3>Level 1</h3><sub>Fiverr seller</sub></td>
+<td align="center" width="20%"><h3>4.9★</h3><sub>Average rating on Fiverr</sub></td>
 </tr>
 </table>
 
@@ -103,7 +100,7 @@ A few of the larger platforms I've designed and built on my own for clients. The
 
 ## ⭐ What clients say
 
-**4.9★ average rating on fiverr · 12 client reviews · 22+ orders delivered · 3–4× repeat orders from the same clients** on [Fiverr](https://www.fiverr.com/sellers/devshair)
+**4.9★ average rating on fiverr · 12 client reviews · 3–4× repeat orders from the same clients** on [Fiverr](https://www.fiverr.com/sellers/devshair)
 
 > I would be surprised if you find anyone more competent, intelligent, kind, and capable of doing all that was needed for my website. You have no need to look any further. Shair is the real deal!
 >
