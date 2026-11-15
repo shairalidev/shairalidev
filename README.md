@@ -9,15 +9,15 @@ I plan the architecture, design the interface, write the frontend and the API, m
 [![Portfolio](https://img.shields.io/badge/Portfolio-shairali.com-111?style=for-the-badge)](https://shairali.com) [![Fiverr](https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/devshair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shairali2) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shair6470@gmail.com)
 
 <table><tr>
-<td align="center" width="25%"><h3>4</h3><sub>Production platforms live</sub></td>
-<td align="center" width="25%"><h3>1,800+</h3><sub>Commits shipped in the last 12 months</sub></td>
 <td align="center" width="25%"><h3>100%</h3><sub>Solo delivery, from design to DevOps</sub></td>
 <td align="center" width="25%"><h3>US · EU</h3><sub>Clients in the USA & Italy</sub></td>
+<td align="center" width="25%"><h3>4.9★</h3><sub>Average rating on Fiverr</sub></td>
+<td align="center" width="25%"><h3>22+</h3><sub>Orders delivered</sub></td>
 </tr></table>
 
 ## 🚀 Featured work
 
-Four production platforms I designed, built and run on my own. The client code is private, so each one has a showcase repo with screenshots, architecture and the full stack.
+A few of the larger platforms I've designed and built on my own for clients. The client code is private, so each one has a showcase repo with screenshots, architecture and the full stack.
 
 <table>
 <tr>
