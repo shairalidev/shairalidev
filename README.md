@@ -4,7 +4,7 @@
 
 I'm Shair Ali, a solo full-stack and AI developer for founders and growing businesses in the USA and Europe. I build new products, finish half-built and AI-generated apps, and deploy them on servers I keep running.
 
-I'm Shair Ali, a full-stack developer who owns products end to end. I plan the architecture, design the interface, write the frontend and the API, model the data, wire up payments and third-party services, and then deploy and operate everything on Linux servers with automated CI/CD.
+I plan the architecture, design the interface, write the frontend and the API, model the data, wire up payments and third-party services, and then deploy and operate everything on Linux servers with automated CI/CD.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shairali.com-111?style=for-the-badge)](https://shairali.com) [![Fiverr](https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/devshair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shairali2) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shair6470@gmail.com)
 
