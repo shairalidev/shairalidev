@@ -113,36 +113,36 @@ Most of my Fiverr work is long-running: clients in the USA and Austria who hired
 <td width="50%" valign="top">
 ⭐⭐⭐⭐⭐
 <p><i>“I would be surprised if you find anyone more competent, intelligent, kind, and capable of doing all that was needed for my website. You have no need to look any further. Shair is the real deal!”</i></p>
-<sub><b>K.</b> 🇺🇸 United States<br/>4 orders · Nov 2026</sub>
+<sub><b>K.</b>, United States<br/>4 orders · Nov 2026</sub>
 </td>
 <td width="50%" valign="top">
 ⭐⭐⭐⭐⭐
 <p><i>“What sets him apart is his ability to listen carefully, understand the needs of individuals with limited technical or programming knowledge, and translate those needs into practical, effective solutions.”</i></p>
-<sub><b>K.</b> 🇺🇸 United States<br/>4 orders · Jun 2026</sub>
+<sub><b>K.</b>, United States<br/>4 orders · Jun 2026</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 ⭐⭐⭐⭐⭐
 <p><i>“Exceptional work again. Building the next platform with him.”</i></p>
-<sub><b>M.</b> 🇦🇹 Austria<br/>3 orders · Feb 2026</sub>
+<sub><b>M.</b>, Austria<br/>3 orders · Feb 2026</sub>
 </td>
 <td width="50%" valign="top">
 ⭐⭐⭐⭐⭐
 <p><i>“Built the perfect platform for my barber booking tool.”</i></p>
-<sub><b>M.</b> 🇦🇹 Austria<br/>3 orders · Jan 2026</sub>
+<sub><b>M.</b>, Austria<br/>3 orders · Jan 2026</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 ⭐⭐⭐⭐⭐
 <p><i>“We had old issues he diligently cleaned up while moving our software toward a launch date. He finished version 7 and we are testing. Finishing is always a problem. His credibility is great with us.”</i></p>
-<sub><b>P.</b> 🇺🇸 United States<br/>4 orders · Nov 2025</sub>
+<sub><b>P.</b>, United States<br/>4 orders · Nov 2025</sub>
 </td>
 <td width="50%" valign="top">
 ⭐⭐⭐⭐⭐
 <p><i>“He took on a project without seeing what he had to work with and successfully completed it under limited information from me because I am not a programmer. He went out of his way to communicate and explain what I did not understand and has set us up to work together in the future.”</i></p>
-<sub><b>P.</b> 🇺🇸 United States<br/>4 orders · Sep 2025</sub>
+<sub><b>P.</b>, United States<br/>4 orders · Sep 2025</sub>
 </td>
 </tr>
 <tr>
