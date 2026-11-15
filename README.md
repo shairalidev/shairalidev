@@ -6,7 +6,7 @@ I'm Shair Ali, a solo full-stack and AI developer for founders and growing busin
 
 I plan the architecture, design the interface, write the frontend and the API, model the data, wire up payments and third-party services, and then deploy and operate everything on Linux servers with automated CI/CD.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shairali.com-111?style=for-the-badge)](https://shairali.com) [![Fiverr](https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/devshair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shairali2) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shair6470@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shairali.com-111?style=for-the-badge)](https://shairali.com) [![Fiverr](https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/devshair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shairali2) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shair6470@gmail.com)
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ A few of the larger platforms I've designed and built on my own for clients. The
 
 ## ⭐ What clients say
 
-**4.9★ average rating on fiverr · 12 client reviews · 22+ orders delivered · 3–4× repeat orders from the same clients** on [Fiverr](https://www.fiverr.com/devshair)
+**4.9★ average rating on fiverr · 12 client reviews · 22+ orders delivered · 3–4× repeat orders from the same clients** on [Fiverr](https://www.fiverr.com/sellers/devshair)
 
 > I would be surprised if you find anyone more competent, intelligent, kind, and capable of doing all that was needed for my website. You have no need to look any further. Shair is the real deal!
 >
